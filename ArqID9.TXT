@@ -1,0 +1,22 @@
+<SHOP9>
+<CONEXAO>
+  <Tipo>OFFLINE SYNC</Tipo>
+  <Servidor>server01,723\shopcontrol9</Servidor>
+  <Usuario>sa</Usuario>
+  <Senha>Senha123</Senha>
+  <Timeout>120</Timeout>
+  <Descricao>Shop Control 9 - Local</Descricao>
+  <Cor>Amarelo</Cor>  
+  <Base></Base>
+</CONEXAO>
+<CONEXAO>
+  <Tipo>ONLINE</Tipo>
+  <Servidor>cc210c4fc263.sn.mynetname.net,723\shopcontrol9</Servidor>
+  <Usuario>sa</Usuario>
+  <Senha>Senha123</Senha>
+  <Timeout>120</Timeout>
+  <Descricao>Shop Control 9 - Internet</Descricao>
+  <Cor>Verde</Cor>
+  <Base></Base>
+</CONEXAO>
+</SHOP9>
